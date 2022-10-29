@@ -203,10 +203,8 @@ LISP, ALGOL, BASIC, etc.
 Décadas de
 1960 e 1970
 • Crise do software
-• Paradigmas de
-programação
-• Sistemas Operacionais mais
-eficientes
+• Paradigmas de programação
+• Sistemas Operacionais mais eficientes
 • Houve um grande crescimento do número
 de sistemas e quase não havia planejamento e
 controle de processos de desenvolvimento de
@@ -214,15 +212,11 @@ software. Devido ao desenvolvimento informal,
 havia atrasos e os custos superavam o orçamento
 estimado (surgindo a necessidade de criar métodos de engenharia de software).
 • Com novas linguagens sendo criadas, nessa época o conceito de orientação a objetos é criado.
-• O foco, no momento, era a programação
-desktop, de modo que foi quando surgiram
-o MS-DOS da Microsoft e o Macintosh da Apple.
+• O foco, no momento, era a programação desktop, de modo que foi quando surgiram o MS-DOS da Microsoft e o Macintosh da Apple.
 Década de 1980
-• Computador
-desktop
+• Computador desktop
 • Unix
-• Evolução da
-internet
+• Evolução da internet
 • A década foi marcada pelo surgimento da Microsoft e pela evolução dos computadores pessoais
 – desktop.
 • O Unix (Sistemas Operacionais em rede) avançaram pelo mundo.
@@ -245,20 +239,16 @@ XP, Windows Vista, Windows 70) e versões gráficas do LINUX.
 de funcionamento.
 Década de 2010
 e 2020
-• Computação em
-nuvem
-• Aplicativos para
-dispositivos
-móveis
-• Inteligência
-Artificial
+• Computação em nuvem
+• Aplicativos para dispositivos móveis
+• Inteligência Artificial
 • Utilizada em larga escala por diversos seguimentos de empresas.
 • Com a evolução dos dispositivos móveis os softwares para aplicativos tornaram-se essenciais.
 • Utilização de algoritmos para a Deep Learning
 (Aprendizagem Profunda) e Machine Learning
 (Aprendizado de Máquina).
 Fonte: adaptado de Fonseca Filho (2007).
-12
+
 Como pode ser observado no Quadro 1.1, à medida que novas formas de
 utilização do hardware e do software se tornam acessíveis à população, fica
 evidente a maior necessidade de melhorar os softwares; além disso, as necessidades dos clientes passam a mudar e vão se alterando conforme a tecnologia é disponibilizada, vejamos:
@@ -277,14 +267,13 @@ Com os fatos supracitados, fica evidente que à medida que novas tecnologias se 
 software para atender as demandas da sociedade.
 Assimile
 Qual a diferença entre software e sistema?
-Conforme Pressman (2016), o termo software é definido como um
-programa de computador, uma sequência lógica de instruções a serem
-seguidas e/ou executadas na manipulação de um determinado conjunto
-de informações.
-Sommerville (2011) destaca que sistema é um conjunto de componentes inter-relacionados que funcionam de forma unificada para
-atingir um certo objetivo. Essa definição de sistema é conhecida em
-algumas outras áreas, como a de engenharia de sistemas, sendo alguns
-exemplos: Sistema Operacional, sistema acadêmico e sistema bancário.
+- Conforme Pressman (2016), o termo software é definido como um programa de computador, uma sequência lógica
+ de instruções a serem seguidas e/ou executadas na manipulação de um determinado conjunto de informações.
+
+Sommerville (2011) destaca que sistema é um conjunto de componentes inter-relacionados que funcionam de forma 
+unificada para atingir um certo objetivo. Essa definição de sistema é conhecida em
+algumas outras áreas, como a de engenharia de sistemas, sendo alguns exemplos:
+Sistema Operacional, sistema acadêmico e sistema bancário.
 Um sistema é formado por um determinado número de programas
 separados e por arquivos de configurações para eles, podendo incluir
 documentação específica para descrever a estrutura do sistema,
@@ -1093,31 +1082,36 @@ Crie uma apresentação para compartilhar com seus colegas e trocar ideias
 sobre os Modelos de Processos de Software.
 Boa jornada de estudos!
 Não pode faltar
-Um Processo de Software é constituído por várias atividades, cuja finalidade é ter como resultado um Produto de Software. Durante a fase de desenvolvimento de um Software existem muitas tarefas, que devem ser distribuídas entre os membros da equipe. Sommerville (2011) destaca que dentre as
-atividades do Processo de Software estão: o estudo da viabilidade, a análise
-dos requisitos, a especificação, a arquitetura de software, implementação
-(codificação), testes, documentação, suporte e treinamento e manutenção.
-Um Processo de Software não precisa ter obrigatoriamente as atividades
-listadas por Sommerville (2011), além disso essas atividades podem ou não
-estar ordenadas, como afirma Pressman (2016). Existem atividades genéricas
-e que aparecem na maioria dos Processos de Software e que são apontadas
-por Sommerville (2011):
-Análise e Especificação: são realizadas as definições sobre o Software
-(a ser produzido) e determinados seus requisitos (funcionalidades) e
-suas restrições.
-Projeto: é realizada a alocação de recursos (Hardware e Software) e são
-identificadas e definidas as abstrações do funcionamento do Software.
-Implementação e Teste Unitário: é todo o processo de codificação do
-Software (seu desenvolvimento realizado por Analistas e Programadores), é
-a fabricação do Software.
-Integração e Verificação: é todo o processo de avaliação, correção e
-validação, considerando a qualidade final do Software.
-Operação e Manutenção: nesta etapa são considerados todos os processos
-de alterações realizadas no Software (após ele estar em funcionamento).
-Para o gerenciamento das atividades de Processo de Software são utilizados os Modelos de Processos de Software. Um Modelo de Processo de
-Software tem como objetivo propiciar estabilidade, controle e organização
-das atividades e é uma representação (geralmente gráfica) dos objetos e atividades envolvidas no Processo de Software. Pfleeger (2004) afirma que existem
-muitas técnicas e ferramentas para a Modelagem de Processos e não há um
+Um Processo de Software é constituído por várias atividades, cuja finalidade é ter como resultado um Produto de Software.
+ Durante  a fase de desenvolvimento de um Software existem muitas tarefas, que devem ser distribuídas entre os membros 
+ da equipe. Sommerville (2011) destaca que dentre as atividades do Processo de Software estão:
+ * o estudo da viabilidade, 
+ * a análise dos requisitos,
+ * a especificação,
+ * a arquitetura de software,
+ * implementação (codificação),
+ * testes,
+ * documentação,
+ * suporte,
+ * treinamento
+ * manutenção.
+Um Processo de Software não precisa ter obrigatoriamente as atividades listadas por Sommerville (2011), além disso 
+essas atividades podem ou não estar ordenadas, como afirma Pressman (2016). Existem atividades genéricas
+e que aparecem na maioria dos Processos de Software e que são apontadas por Sommerville (2011):
+- Análise e Especificação: são realizadas as definições sobre o Software (a ser produzido) e determinados seus requisitos
+ (funcionalidades) e suas restrições.
+- Projeto: é realizada a alocação de recursos (Hardware e Software) e são identificadas e definidas as abstrações do
+ funcionamento do Software.
+- Implementação e Teste Unitário: é todo o processo de codificação do Software (seu desenvolvimento realizado por Analistas
+ e Programadores), é a fabricação do Software.
+- Integração e Verificação: é todo o processo de avaliação, correção e validação, considerando a qualidade final do Software.
+- Operação e Manutenção: nesta etapa são considerados todos os processos de alterações realizadas no Software
+ (após ele estar em funcionamento).
+
+Para o gerenciamento das atividades de Processo de Software são utilizados os Modelos de Processos de Software. 
+Um Modelo de Processo de Software tem como objetivo propiciar estabilidade, controle e organização
+das atividades e é uma representação (geralmente gráfica) dos objetos e atividades envolvidas no Processo de Software.
+Pfleeger (2004) afirma que existem muitas técnicas e ferramentas para a Modelagem de Processos e não há um
 consenso em determinar o melhor modelo. Cada empresa adota seu Modelo
 de Processo de Software, realizando adaptações a cada Software produzido.
 39
@@ -1126,26 +1120,22 @@ guia exclusivo para as atividades da Engenharia de Software, definindo um fluxo
 de todas as atividades, ações e tarefas, o nível de interação entre as atividades, os
 artefatos que serão produzidos e a organização do trabalho que deve ser realizado.
 Existem diversos Modelos de Processos de Softwares que possuem características
-diferentes. Destacam-se os seguintes: Modelos de Processos Prescritivos, Modelos
-de Processos Especializados e Modelos de Desenvolvimento Ágil.
-Modelo de Processo Prescritivo
-O Modelo de Processo Prescritivo (conhecido também como Modelos de
-Processos Tradicionais) consiste em um conjunto de elementos do processo, que
-podem ser ações de engenharia de software, produtos de trabalho e mecanismos
-que garantem a qualidade e o controle de mudanças nos projetos de desenvolvimento de um sistema de software (Pressman, 2016). Esse tipo de modelo prescreve
-os relacionamentos, ou seja, como os elementos dos processos são interligados,
-com a finalidade de estruturar e ordenar o desenvolvimento de um Software.
-Conforme Pressman (2016), as tarefas ocorrem de forma sequencial,
-com diretrizes bem definidas, uma vez que indicam uma série de atividades
-metodológicas, ações, tarefas, artefatos, garantias de qualidade e mecanismos
-de controle de mudanças para cada projeto. Para cada Modelo de Processo
-Prescritivo também é indicado um Fluxo de Processo (ou Fluxo de Trabalho)
-ou seja, como esse conjunto de elementos do processo está interligado.
-Alguns dos Modelos de Processos Prescritivos são os seguintes: Modelo
-Cascata, Modelo Incremental, Modelos Evolucionários (divididos em:
-Prototipação e Espiral) e Modelos Concorrentes.
-O Modelo Cascata (conhecido como Ciclo de Vida Clássico de um
-Sistema ou abordagem Top-down) possui enfoque sistemático e sequencial
+diferentes. Destacam-se os seguintes:
+ Modelos de Processos Prescritivos, Modelos de Processos Especializados e Modelos de Desenvolvimento Ágil.
+ - Modelo de Processo Prescritivo
+ O Modelo de Processo Prescritivo (conhecido também como Modelos de Processos Tradicionais) consiste em um conjunto
+  de elementos do processo, que podem ser:
+ ações de engenharia de software, produtos de trabalho e mecanismos que garantem a qualidade e o controle de mudanças
+ nos projetos de desenvolvimento de um sistema de software (Pressman, 2016). Esse tipo de modelo prescreve
+os relacionamentos, ou seja, como os elementos dos processos são interligados, com a finalidade de estruturar e 
+ordenar o desenvolvimento de um Software.
+Conforme Pressman (2016), as tarefas ocorrem de forma sequencial, com diretrizes bem definidas, uma vez que indicam
+ uma série de atividades metodológicas, ações, tarefas, artefatos, garantias de qualidade e mecanismos
+de controle de mudanças para cada projeto. Para cada Modelo de Processo Prescritivo também é indicado um 
+Fluxo de Processo (ou Fluxo de Trabalho) ou seja, como esse conjunto de elementos do processo está interligado.
+Alguns dos Modelos de Processos Prescritivos são os seguintes: 
+. Modelo Cascata, Modelo Incremental, Modelos Evolucionários (divididos em: Prototipação e Espiral) e Modelos Concorrentes.
+O Modelo Cascata (conhecido como Ciclo de Vida Clássico de um Sistema ou abordagem Top-down) possui enfoque sistemático e sequencial
 dos Processos, cada fase é iniciada somente após a conclusão da fase anterior.
 A Figura 1.4 representa o Modelo Cascata.
 Figura 1.4 | Modelo de Processo Prescritivo: Modelo Cascata
@@ -1265,17 +1255,16 @@ da sociedade em usar os dispositivos eletrônicos. Será que os Modelos
 de Processos Prescritivos podem ser utilizados por uma empresa de
 desenvolvimento de Software? Ainda há espaço para esses Modelos?
 Modelo de Processo Especializado
-Os Modelos de Processos Especializados utilizam muitas das características de um ou mais Modelos de Processos Prescritivos e são utilizados quando existe a necessidade de uma abordagem mais especializada
-de Engenharia de Software. Conforme Pressman (2016), os Modelos de
+Os Modelos de Processos Especializados utilizam muitas das características de um ou mais Modelos de Processos Prescritivos
+e são utilizados quando existe a necessidade de uma abordagem mais especializada de Engenharia de Software.
+Conforme Pressman (2016), os Modelos de
 Processos Especializados são os seguintes:
-• Modelo Baseado em Componentes: são utilizados em projetos de
-Software de Prateleira (Software de Linha), compreende aplicações de
-componentes de Software previamente empacotados (e vendidos em
-partes ou completo). São desenvolvidos para poderem ser reutilizados
-em outros projetos. Um componente é uma parte do independente do
+• Modelo Baseado em Componentes: são utilizados em projetos de Software de Prateleira (Software de Linha), 
+compreende aplicações de componentes de Software previamente empacotados (e vendidos em partes ou completo). 
+São desenvolvidos para poderem ser reutilizados em outros projetos. Um componente é uma parte do independente do
 Software e pode ser trocado ou alterado.
-• Modelo de Métodos Formais: compreende um conjunto de atividades que levam à especificação matemática formal do Software,
-fornecendo mecanismos para a descoberta e a eliminação de muitos
+• Modelo de Métodos Formais: compreende um conjunto de atividades que levam à especificação 
+matemática formal do Software, fornecendo mecanismos para a descoberta e a eliminação de muitos
 problemas como a ambiguidade, incompletude e inconsistência.
 Servem como base para fazer a averiguação do código de programação
 com o objetivo de descobrir erros (que passariam despercebidos).
@@ -1341,21 +1330,21 @@ define um conjunto de regras e práticas de gestão, para alcançar o sucesso do
 projetos como, por exemplo, o trabalho em equipe e comunicação melhorada. Pressman (2016) destaca que o Scrum possui as seguintes atividades
 metodológicas: Requisitos, Análise, Projeto, Evolução e Entrega; e em cada
 atividade ocorrem as seguintes tarefas principais:
+
 • Backlog: lista com prioridades dos requisitos (das funcionalidades)
 do projeto, na qual um item pode ser adicionado ou eliminado a
 qualquer momento (essas são as alterações) e o gerente do produto
 deve registrar e atualizar as prioridades.
-• Sprints: são unidades de trabalho para atingir um requisito (estabelecido no Backlog) e precisa ser ajustado dentro do Time Box (Janela de
-Tempo) para definir os prazos de entrega.
-• Existe, ainda, uma reunião de planejamento na qual o Product Owner
-(dono do produto) prioriza os itens do Product Backlog e a equipe
-seleciona as atividades que ela será capaz de implementar durante o
-Sprint que se inicia.
-• Reuniões Scrum: são reuniões breves, geralmente, de 15 minutos,
-chamadas Daily Meeting e realizadas diariamente (geralmente no
-início da manhã), nesta reunião são realizadas três perguntas chaves
-(para cada integrante da equipe): (i) O que você realizou desde a
-última reunião de equipe?; (ii) Quais foram os obstáculos encontrados?; (iii) O que planeja realizar até a próxima reunião?
+• Sprints: são unidades de trabalho para atingir um requisito (estabelecido no Backlog) e precisa ser ajustado dentro do 
+Time Box (Janela de Tempo) para definir os prazos de entrega.
+• Existe, ainda, uma reunião de planejamento na qual o Product Owner (dono do produto) prioriza os itens do 
+Product Backlog e a equipe seleciona as atividades que ela será capaz de implementar durante o Sprint que se inicia.
+• Reuniões Scrum: são reuniões breves, geralmente, de 15 minutos,  chamadas Daily Meeting e 
+realizadas diariamente (geralmente no início da manhã), nesta reunião são realizadas três perguntas chaves
+(para cada integrante da equipe): 
+(i) O que você realizou desde a última reunião de equipe?; 
+(ii) Quais foram os obstáculos encontrados?;
+(iii) O que planeja realizar até a próxima reunião?
 47
 Quando o projeto inicializa, são definidas as ideias e funcionalidades
 iniciais do produto a ser desenvolvido, estas ideias são chamadas Histórias e
@@ -1946,7 +1935,8 @@ Para solucionar a problemática do e-commerce em questão será necessário,
 primeiro, ter a consciência que existe um processo principal que necessita
 de integração entre organizações (e-commerce e armazém parceiro). A partir
 desse elemento-chave você poderá estabelecer que o macroprocesso dessa
-organização pode ser definido em função de seu core business e desmembrado em processos e subprocessos, bem como sua estrutura funcional.
+organização pode ser definido em função de seu core business e desmembrado em processos e subprocessos,
+ bem como sua estrutura funcional.
 67
 Posteriormente, você deverá detalhar o processo de venda para que possa
 compreender a complexidade e relações que ele gera, bem como determinar
@@ -6064,7 +6054,87 @@ Analista de Sistema:
     * Garantir a qualidade final do software
     * Implantar o software desenvolvido
 
-    
+Processo de Software:
+    * Criar uma padronização
+    * Reutilização
+    * Retém o conhecimento da empresa
+    * Guiar e definir as atividades de um Projeto de Software
+    * Determina as Tarefas
+    * Reduz riscos
+
+
+AAP1:
+1)
+Observando as definições, conjunto de elementos do processo podem ser: ações de engenharia de software; produtos de trabalho; e mecanismos que garantam a qualidade e o controle de mudanças nos projetos de desenvolvimento de um sistema de software. Este modelo determina como os elementos dos processos são interligados, buscando estruturar e ordenar o desenvolvimento de um software.
+
+Nesse contexto, o que está sendo definido?
+
+Alternativas:
+
+a)
+Um modelo de desenvolvimento ágil.
+
+b)
+Um modelo de processo prescritivo.
+
+c)
+Um modelo de processo especializado.
+
+d)
+Um modelo de métodos formais.
+
+e)
+Um modelo scrum.
+
+2)
+Os modelos de processos especializados se apropriam de diversas características de um ou mais modelos de processos prescritivos. Sua utilização acontece quando é necessária uma abordagem mais especializada de Engenharia de Software. A tabela a seguir, apresenta estes modelos e suas características:
+
+ 
+
+Modelo
+
+Características
+
+A.       Baseado em componentes
+
+1.       Utiliza as características dos modelos de processos prescritivos, implementando alguns princípios da metodologia ágil. É considerado um modelo iterativo e incremental.
+
+B.       De métodos formais
+
+2.       Fornece um processo e abordagem metodológica que define, especifica, projeta e constrói aspectos. O código do software é separado por importância e os requisitos são modelados superando várias funcionalidades do sistema.
+
+C.       Desenvolvimento de software orientado a aspecto
+
+3.       O desenvolvimento de software está diretamente ligado a este modelo. Num modelo é enfatizado a medição pessoal do que foi produzido. No outro modelo, o objetivo é a criação de uma equipe autodirigida, organizada, com a finalidade de produzir um software de alto padrão de qualidade.
+
+D.       De processo unificado
+
+4.       Conjunto de atividades que levam à especificação matemática do software, fornecendo mecanismos para a descoberta e a eliminação de problemas como: ambiguidade, incompletude e inconsistência. É a base para fazer a averiguação do código de programação com o objetivo de descobrir erros.
+
+E.        De processos pessoal e de equipe
+
+5.       Utilizados em projetos de software de prateleira, compreende aplicações previamente empacotadas. São desenvolvidos para serem reutilizados em outros projetos, além de serem uma parte independente do software, podendo ser trocado ou alterado.
+
+Fonte: Adaptado de WERLICH, C. Modelos de processos de software (p. 10-11).
+
+Assinale a alternativa que associa corretamente os modelos e suas características:
+
+Alternativas:
+
+a)
+A-1 / B-5 / C-4 / D-2 / E-3.
+
+b)
+A-3 / B-1 / C-4 / D-5 / E-2.
+
+c)
+A-5 / B-4 / C-2 / D-1 / E-3.
+
+d)
+A-4 / B-3 / C-1 / D-5 / E-2.
+
+e)
+A-2 / B-4 / C-1 / D-3 / E-5.
 
 
 
