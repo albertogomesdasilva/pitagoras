@@ -63,19 +63,17 @@ de negócios e à Tecnologia da Informação, com foco nos resultados e nas
 melhorias dos processos de negócios. E, desta forma, serão abordados os
 fundamentos de processos de negócio, a modelagem de processos de negócio
 e o gerenciamento de processos de negócio.
-Na Unidade 3, serão apresentados o processo de engenharia de requisitos, a elicitação, a especificação e a validação de requisitos e a modelagem
-de requisitos. Você poderá aplicar e identificar os processos de engenharia
+Na Unidade 3, serão apresentados o processo de engenharia de requisitos, a elicitação, a especificação e a 
+validação de requisitos e a modelagem de requisitos. Você poderá aplicar e identificar os processos de engenharia
 de requisitos, assim como suas técnicas e análises para sistemas. Aprenderá
 também algumas técnicas para especificar, modelar e documentar os requisitos de um sistema.
 Na Unidade 4, você irá aplicar e praticar os fundamentos e métodos
 orientados a objetos; conhecerá os fundamentos da orientação a objetos,
-o modelo do processo unificado com suas características e fases, a introdução ao Processo Unificado da Rational (Rational Unified Process - RUP)
-e a introdução à Linguagem de Modelagem Unificada (Unified Modeling
-Language - UML).
+o modelo do processo unificado com suas características e fases, a introdução ao Processo Unificado da Rational 
+(Rational Unified Process - RUP) e a introdução à Linguagem de Modelagem Unificada (Unified Modeling Language - UML).
 A utilização de técnicas para a Análise e Modelagem de Sistemas traz
 segurança aos desenvolvedores, pois é uma garantia de que se está desenvolvendo o solicitado pelo cliente, além de ser uma forma de estabelecer padrões
-de qualidade para o desenvolvimento. Possibilita, também, a redução de erros
-no desenvolvimento de softwares, minimiza os custos orçamentários e até o
+de qualidade para o desenvolvimento. Possibilita, também, a redução de erros no desenvolvimento de softwares, minimiza os custos orçamentários e até o
 tempo de desenvolvimento se as técnicas são aplicadas de maneira adequada.
 Você está entrando agora no mundo do desenvolvimento de sistemas,
 que é um mundo de oportunidades! Sua visão sobre um software não será
@@ -6021,7 +6019,53 @@ TUCKER, A. B.; NOONAN, R. E. Linguagens de programação: princípios e paradigm
 Porto Alegre: AMGH, 2010.
 
 
-ANEXOS:
+* ANEXOS:
+A modelagem pode servir como uma documentação;
+
 O que é um software?
-É a união de três elementos: Intruções, Estrutura de dados e a documentação.
+É a união de três elementos: Intruções(Os atributos e métodos), Estrutura de dados(guarda e manipula as informações) e a documentação(informação descritiva).
+
+Fundamentos da Engenharia de Software:
+
+Evolução do software:
+50-60 -> Sistemas Operacionais, Linguagem de Programação
+60-70 -> Crise do Software, Paradigmas de programação
+1980 -> PC, Evolução da Internet
+1990 -> Internet, Java
+200 -> Computação em Nuvem, IA(Inteligência Artifical)
+
+Camadas da Engenharia de Software:
+        Ferramentas ->  |
+        Métodos         v
+        processo
+        Foco na qualidade
+
+Fases da Engenharia de Software:
+Análise de Sistemas:
+    * Análise
+    * Projeto
+    * Implementação
+    * Testes -> Pode ser feita em vários momentos
+    * Documentação -> Ocorre em todas as fases
+    * Manutenção -> Acompanhando após a entrega(verficação de erros ou falhas)
+
+Princípios:
+    Busca o domínio da informação
+    Comportamento do Software
+    Diagramas
+    Informações e detalhes
+
+Analista de Sistema:
+    * Interagir com o cliente
+    * Levantar os dados e os requisitos do software para analisar e propor soluções
+    * Criar a modelagem do software
+    * Orientar os programadores
+    * Acompanhar e executar testes
+    * Garantir a qualidade final do software
+    * Implantar o software desenvolvido
+
+    
+
+
+
 
